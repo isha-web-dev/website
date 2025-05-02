@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkgreen;
+    color: white;
+}
+.nav1{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+
+}
+.nav1 ul li{
+    text-decoration: none;
+    gap: 20px;
+    display: inline-flex;
+    margin: 0 ;
+    
+}
+.nav ul li{
+    display: flex;
+    margin: auto;
+    
+}
+.agri1 h1{
+    font-size: 90px;
+    font-weight: 500;
+}
+.agri1 p{
+    font-size: 23px;
+}
+.agri3{
+    color: rgba(0, 128, 0, 0.902);
+}
+.butt{
+    background-color: green;
+    font-size: 40px;
+}
+.socialmedia a{
+    text-decoration: none;  
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+
+
